@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+        React JS is a JavaScript library for building user interfaces. The problem this tries to solve is to create simple components that can be used in a stateful manner to create applications using props.
+
 - [ ] What does it mean to _think_ in react?
+
+        React makes you think about apps while you are building them. 
 
 - [ ] Describe state.
 
+        A state is an object that determines how that component will render and behave.
+
 - [ ] Describe props.
 
+        Props are creation parameters which are properties. It can control what objects will produce.
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+        Side affects can be anything outside of the scope of a function. This can assist in the use of APIs and network requests. They are only noticed when they have produced results. This was the case in the lambda-calculator project.   
 
 ## Project Set Up
 
